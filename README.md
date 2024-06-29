@@ -6,3 +6,11 @@ But if you want to use them as an example or something its completely fine
 - [x] Neovim
 - [ ] Windows Terminal
 - [ ] VSCode
+
+## Neovim
+
+Standard Neovim config i try to keep this updated but sometimes i may forget
+
+## Powershell
+
+I Have diffrent themes so that why the `themes` folder exists (The `WTThemes` Folder contains the the terminal theme i use not oh my posh themes)
