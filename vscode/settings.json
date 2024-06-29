@@ -1,0 +1,13 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.colorTheme": "Gruvbox Minor Dark Hard",
+    "workbench.iconTheme": "gruvbox-material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Mono'",
+    "editor.fontSize": 12.9,
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "explorer.confirmDragAndDrop": false
+}
