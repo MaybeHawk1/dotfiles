@@ -6,6 +6,8 @@ But if you want to use them as an example or something its completely fine
 - [x] Neovim
 - [x] Windows Terminal
 - [x] VSCode
+- [x] zsh
+
 
 ## Neovim
 
