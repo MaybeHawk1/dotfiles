@@ -5,6 +5,7 @@ vim.cmd("set shiftwidth=2")
 vim.cmd("set number")
 vim.cmd("set autoindent")
 vim.cmd("set cursorline")
+vim.cmd("set nowrap")
 vim.keymap.set('n', '<leader>a', "ggVG")
 vim.g.mapleader = " "
 vim.opt.termguicolors = true
