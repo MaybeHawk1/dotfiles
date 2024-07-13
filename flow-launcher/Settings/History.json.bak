@@ -1,0 +1,20 @@
+{
+  "Items": [
+    {
+      "Query": "Settings",
+      "ExecutedDateTime": "2024-07-08T13:09:30.7269929+03:30"
+    },
+    {
+      "Query": "pm install Lorem Ipsum Generator",
+      "ExecutedDateTime": "2024-07-08T13:10:19.651418+03:30"
+    },
+    {
+      "Query": "Settings",
+      "ExecutedDateTime": "2024-07-08T13:12:20.4241866+03:30"
+    },
+    {
+      "Query": "pm install CPPreference",
+      "ExecutedDateTime": "2024-07-08T13:12:47.1263555+03:30"
+    }
+  ]
+}
