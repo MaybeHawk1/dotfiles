@@ -1,0 +1,14 @@
+shell = "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+working_directory = "C:\\Users\\MaybeHawk"
+
+import = [
+	"C:\\Users\\MaybeHawk\\AppData\\Roaming\\alacritty\\Themes\\nord.toml"
+]
+
+[font]
+normal = { family = "CaskaydiaCove NFM", style = "Regular" }
+size = 11.5
+
+[window]
+title = "Alacritty"
+dynamic_title = false
