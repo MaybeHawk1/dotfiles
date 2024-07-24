@@ -1,0 +1,17 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "opt",
+        "formatting",
+        "saadparwaiz1",
+        "cmp_luasnip",
+        "format",
+        "lsp",
+        "presets",
+        "doom",
+        "bubbles_theme"
+    ],
+    "diagnostics.disable": [
+        "unused-local"
+    ]
+}
