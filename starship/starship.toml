@@ -1,0 +1,22 @@
+add_newline = true
+
+format = """
+┏\\[$directory\\]
+┗\\[$username@$hostname\\]$character"""
+
+[character]
+success_symbol = '[](bold green)'
+error_symbol = '[](bold red)'
+vimcmd_symbol = '[](bold green)'
+format = ' $symbol '
+
+[hostname]
+ssh_only = false
+format = '[$hostname]($style)'
+
+[username]
+show_always = true
+format = '[$user]($style)'
+
+[directory]
+format = '[$path]($style)'
