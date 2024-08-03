@@ -1,4 +1,4 @@
-winget install JanDeDobbeleer.OhMyPosh
+winget install starship.starship
 winget install junegunn.fzf
 winget install git.git
 winget install neovim.neovim
