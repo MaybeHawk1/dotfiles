@@ -24,6 +24,16 @@ return {
   },
   { "neovim/nvim-lspconfig" },
   { "hrsh7th/cmp-nvim-lsp" },
-  { "hrsh7th/nvim-cmp" },
+  {
+    "hrsh7th/nvim-cmp",
+    config = function()
+      local cmp = require('cmp')
+      cmp.setup({
+        mapping = {
+          ['<CR>'] = cmp.mapping.confirm()
+        },
+      })
+    end
+  },
   { "L3MON4D3/LuaSnip" },
 }
