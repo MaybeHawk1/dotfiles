@@ -9,7 +9,13 @@ return {
     "williamboman/mason-lspconfig.nvim",
     config = function()
       require("mason-lspconfig").setup({
-        ensure_installed = { "lua_ls", "tsserver" }
+        ensure_installed = {
+          "lua_ls",
+          "eslint",
+          "clangd",
+          "ast_grep",
+          "eslint_d"
+        }
       })
     end
   },
