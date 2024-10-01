@@ -14,7 +14,6 @@ return {
           "eslint",
           "clangd",
           "ast_grep",
-          "eslint_d"
         }
       })
     end
