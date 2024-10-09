@@ -7,9 +7,11 @@
         "cmp_luasnip",
         "format",
         "lsp",
-        "presets"
+        "presets",
+        "harpoon"
     ],
     "diagnostics.disable": [
-        "unused-local"
+        "unused-local",
+        "undefined-doc-name"
     ]
 }

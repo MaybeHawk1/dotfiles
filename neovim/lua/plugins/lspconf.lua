@@ -14,6 +14,8 @@ return {
           "eslint",
           "clangd",
           "ast_grep",
+          "basedpyright",
+          "ruff"
         }
       })
     end

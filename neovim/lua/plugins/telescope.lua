@@ -11,7 +11,10 @@ return {
       vim.keymap.set('n', '<leader>fg', builtin.live_grep, {})
       vim.keymap.set('n', '<C-b>', builtin.buffers, {})
       vim.keymap.set('n', '<C-g>', builtin.git_files, {})
-    end
+    end,
+    defaults = {
+      theme = "dropdown",
+    }
   },
 
   {
