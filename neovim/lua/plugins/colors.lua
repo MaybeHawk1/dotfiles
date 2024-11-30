@@ -2,7 +2,8 @@ return {
   {
     "ellisonleao/gruvbox.nvim",
     config = function()
-      --
+      require("gruvbox").setup({})
+--      vim.cmd("colorscheme gruvbox")
     end
   },
   {
@@ -34,7 +35,15 @@ return {
     lazy = false,
     priority = 1000,
     config = function()
-      vim.cmd.colorscheme "tokyonight-night"
+--      vim.cmd.colorscheme "tokyonight-night"
+    end
+  },
+  {
+    "rose-pine/neovim",
+    name = "rose-pine",
+    config = function()
+      vim.cmd("colorscheme rose-pine")
     end
   }
 }
+

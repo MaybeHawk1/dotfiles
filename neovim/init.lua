@@ -13,3 +13,4 @@ vim.opt.rtp:prepend(lazypath)
 
 require("settings-vim")
 require("lazy").setup("plugins")
+require("bg")
